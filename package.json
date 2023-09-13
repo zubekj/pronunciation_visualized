@@ -1,0 +1,23 @@
+{
+  "name": "pronunciation_visualized",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zubekj/pronunciation_visualized.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zubekj/pronunciation_visualized/issues"
+  },
+  "homepage": "https://github.com/zubekj/pronunciation_visualized#readme",
+  "dependencies": {
+    "electron": "^26.2.1"
+  }
+}
